@@ -12,7 +12,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on QuantumKernel, A Custom Kernel for Redmi Note 8 Pro
+- 🔭 I’m currently working on Nova Kernel, Custom Kernels for providing best blend of performance and battery life.
 
 - 🌱 I’m currently learning Java, C, Python  
 
