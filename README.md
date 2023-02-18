@@ -44,6 +44,13 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wahid7852&theme=default" />
 </a>
 
+## Streak
+
+<p href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Wahid7852&theme=tokyonight&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3"/>
+</p>
+</br>
+
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
