@@ -3,6 +3,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=wahid7852&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![An image of @wahid7852's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wahid7852)](https://holopin.io/@wahid7852)
+
 </p>
 <h2> About Me </h2>
 
