@@ -20,8 +20,12 @@
 <img height=300 src="https://github-readme-activity-graph.vercel.app/graph?username=Wahid7852&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=22.5&title_color=FDFD96&border_radius=22px"/>
 </a><br/><br/>
 
-![](https://github-readme-stats.vercel.app/api?username=Wahid7852&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Wahid7852&theme=tokyonight&hide_border=false)<br/>
+<a href="https://github.com/Wahid7852">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Wahid7852&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/Wahid7852">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Wahid7852&theme=tokyonight&hide_border=false" />
+</a>
 
 <br/>
 
