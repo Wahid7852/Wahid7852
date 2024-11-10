@@ -12,7 +12,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Wahid7852" />
 </a>
 <a href="https://github.com/Wahid7852">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wahid7852&layout=compact&langs_count=8&card_width=420" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wahid7852&layout=compact&langs_count=8&card_width=360" />
 </a><br/><br/><br/>
 
 <!-- Activity Graph -->
