@@ -21,10 +21,10 @@
 </a><br/><br/>
 
 <a href="https://github.com/Wahid7852">
-  <img height=180 width=460 align="center" src="https://github-readme-stats.vercel.app/api?username=Wahid7852&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height=200 width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=Wahid7852&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/Wahid7852">
-  <img height=180 width=460 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Wahid7852&theme=tokyonight&hide_border=false" />
+  <img height=200 width=450 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Wahid7852&theme=tokyonight&hide_border=false" />
 </a>
 
 <br/>
