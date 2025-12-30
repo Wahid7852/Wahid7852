@@ -1,6 +1,6 @@
 # Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> 
 [![](https://visitcount.itsvg.in/api?id=wahid7852&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![Profile Views](https://komarev.com/ghpvc/?username=Wahid7852&style=flat-square&color=blue)
 # About Me
 <p>
   Hi, I’m Abdul Wahid Khan, a passionate developer with skills in C, Python, and Linux Kernels. I enjoy building projects that solve real-world problems. I love exploring new tech and frameworks, and I'm always up for collaboration on innovative projects!
