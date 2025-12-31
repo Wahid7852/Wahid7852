@@ -25,6 +25,6 @@
 <br/>
 
 # 💻 Check Out My Repos ⬇️
+- ![untor](https://github.com/Wahid7852/untor-tor/)
+- ![rakshak](https://github.com/wahid7852/rakshak)
 - ![Nova Kernels](github.com/nova-Kernels/)
-- ![AutoInstaller](https://github.com/wahid7852/autoInstaller_Proj)
-- ![MotionDetection Based IP-Pinger](https://github.com/Wahid7852/MotionDetection_Based_IP-Pinger)
