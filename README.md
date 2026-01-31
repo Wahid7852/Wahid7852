@@ -1,30 +1,43 @@
-# Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> 
-[![](https://visitcount.itsvg.in/api?id=wahid7852&icon=0&color=0)](https://visitcount.itsvg.in)
-![Profile Views](https://komarev.com/ghpvc/?username=Wahid7852&style=flat-square&color=blue)
-# About Me
-<p>
-  Hi, I’m Abdul Wahid Khan, a passionate developer with skills in C, Python, and Linux Kernels. I enjoy building projects that solve real-world problems. I love exploring new tech and frameworks, and I'm always up for collaboration on innovative projects!
-</p>
-- 💬 Talk to me about Linux, Kernels, Python,, AOSP Custom Roms, Open Source Software. 
+### DevSecOps • Kernel • Systems • Security
 
-# 📊 GitHub Stats:
-<a href="https://github.com">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Wahid7852" />
-</a>
-<a href="https://github.com/Wahid7852">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wahid7852&layout=compact&langs_count=8&card_width=360" />
-</a><br/><br/><br/>
+> I break systems to understand them.  
+> Then I harden them so others can’t.
 
-<!-- Activity Graph -->
-<a href="https://github.com/Wahid7852">
-<img height=300 src="https://github-readme-activity-graph.vercel.app/graph?username=Wahid7852&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=22.5&title_color=FDFD96&border_radius=22px"/>
-</a><br/><br/>
+![](https://visitcount.itsvg.in/api?id=wahid7852&icon=0&color=0)
+![](https://komarev.com/ghpvc/?username=Wahid7852&style=flat-square)
 
-<img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Wahid7852&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /> <img height=240 width=410 align="center" src="https://nirzak-streak-stats.vercel.app/?user=Wahid7852&theme=radical" />
-
+## 📈 Proof of Work
+<img src="https://github.com/user-attachments/assets/7d63c28e-88c4-4c22-bcff-18c2038f3061" width="100%" />
 <br/>
+<img src="https://github.com/user-attachments/assets/c3272b6c-041f-4e4e-b0e0-ebb1ae63e1fc" width="100%" />
 
-# 💻 Check Out My Repos ⬇️
-- ![untor](https://github.com/Wahid7852/untor-tor/)
-- ![rakshak](https://github.com/wahid7852/rakshak)
-- ![Nova Kernels](github.com/nova-Kernels/)
+I work close to the metal — Linux kernels, cloud infrastructure,
+DevSecOps pipelines, and network-level security.
+
+My focus is building systems that survive real-world abuse:
+misconfigurations, hostile traffic, and operational failure.
+
+If it touches kernels, cloud security, Tor, or automation —
+I’m interested.
+
+## ⚙️ Focus Areas
+- Linux Kernel Development (Android / MTK platforms)
+- DevSecOps & Cloud Security (AWS, Kubernetes, CI/CD)
+- Network & Traffic Analysis (PCAP, Tor, correlation)
+- Infrastructure Automation (Terraform, Ansible)
+- Security Tooling & Research
+
+## 🧰 Stack
+**Languages:** C, Python, C++, Bash  
+**Cloud:** AWS, GCP, Azure  
+**Infra:** Docker, Kubernetes, Terraform, Ansible  
+**Security:** Wireshark, Ghidra, radare2, Burp  
+**Systems:** Linux, AOSP, Networking
+
+## 📊 GitHub Stats
+<img src="https://nirzak-streak-stats.vercel.app/?user=Wahid7852&theme=radical" height="170"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wahid7852&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true" />
+
+> Long-term builder.  
+> Kernel-first thinker.  
+> Security is not optional.
